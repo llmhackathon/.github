@@ -4,7 +4,7 @@
 
 | Name | Authors | Links |
 |------|---------|-------|
-| Llama3 Material Scientist | Canalicchio, Alessandro (iteratec GmbH); Mosshammer, Alexander (iteratec GmbH); Rug, Tehseen (iteratec GmbH) | [linkedin.com](https://www.linkedin.com/posts/dr-tehseen-rug-844a63225_second-day-of-the-hackathon-for-materials-activity-7194349806901727232-GIO-?utm_source=combined_share_message&utm_medium=member_desktop) |
+| Llama3 Material Scientist | Canalicchio, Alessandro (iteratec GmbH); Mosshammer, Alexander (iteratec GmbH); Rug, Tehseen (iteratec GmbH) | [linkedin.com](https://www.linkedin.com/posts/dr-tehseen-rug-844a63225_second-day-of-the-hackathon-for-materials-activity-7194349806901727232-GIO-?utm_source=combined_share_message&utm_medium=member_desktop) [github](https://github.com/sandrocan/LLMs-for-design-of-alkali-activated-concrete-formulations)|
 | Thoughtful Beavers | Aleyna Beste Ozhan (MIT), Soroush Mahjoubi (MIT) | [youtube.com](https://www.youtube.com/watch?v=BC1XonJB_fo) |
 | NOMAD Query Reporter | Nathan Daelman *, Bernadette Mohr  *, Sascha Klawohn *, Fabian Schöppach *, Carla Terboven ** (*: FAIRmat NDFI, Humboldt University Berlin, **: Hasso Plattner Institute) | [linkedin.com](https://www.linkedin.com/posts/nathan-daelman-352440174_the-entry-for-the-llm-hackathon-of-may-8th-activity-7194379212055560192-hwMm?utm_source=share&utm_medium=member_desktop) |
 | The learning LOBSTERs | Aakash Naik (Federal Institute For Materials Research and Testing, Friedrich Schiller University Jena), Katharina Ueltzen (Federal Institute For Materials Research and Testing) | [youtube.com](https://youtu.be/LPWZDvuM3jM), [github.com](https://github.com/kaueltzen/LLM_Hackathon_2024) |
