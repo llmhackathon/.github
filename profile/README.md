@@ -38,7 +38,7 @@
 | Alchemae | Mohammed R. Alalouni | [linkedin.com](https://www.linkedin.com/posts/mohammed-r-alalouni-phd-5b79a4b5_llm-materialsscience-2024llmmaterialsandchemistry-activity-7194457381668343809--Nln?utm_source=share&utm_medium=member_desktop) | 
 | Team Datalab | Evans, Matthew (UCLouvain), Bocarsly, Joshua (UHouston), Charmes, Benjamin (University of Cambridge), Patel, Vraj (UHouston) | [twitter.com](https://twitter.com/funroll_loops/status/1788701005518909453), [github.com](https://github.com/bocarsly-group/llm-hackathon-2024) |
 | InfoChem | Vrundan Shah, Vinay Kakkad, Falak Shah, Tushar Gadhiya | [loom.com](https://www.loom.com/share/6910578a2f5740daaf13807c78bbbe9a?sid=1dddd5e9-87c7-488d-bd5f-bf08b3840acd) | 
-
+| LLMicroscopy | Xiangyu Yin (Advanced Photon Source), Yi Jiang (Advanced Photon Source), Grace Luo (Advanced Photon Source), Desheng Ma (Cornell University)| [youtube.com](https://youtu.be/0vRPHvTQQms?si=urWtIx8tvYcrYDts), [github.com](https://github.com/dsmagiya/LLMicroscopy_CALMS-DASH) |
 ## 2023 
 [Publication](https://arxiv.org/pdf/2306.06283)
 
