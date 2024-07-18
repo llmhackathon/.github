@@ -38,6 +38,7 @@
 | Alchemae | Mohammed R. Alalouni | [linkedin.com](https://www.linkedin.com/posts/mohammed-r-alalouni-phd-5b79a4b5_llm-materialsscience-2024llmmaterialsandchemistry-activity-7194457381668343809--Nln?utm_source=share&utm_medium=member_desktop) | 
 | Team Datalab | Evans, Matthew (UCLouvain), Bocarsly, Joshua (UHouston), Charmes, Benjamin (University of Cambridge), Patel, Vraj (UHouston) | [twitter.com](https://twitter.com/funroll_loops/status/1788701005518909453), [github.com](https://github.com/bocarsly-group/llm-hackathon-2024) |
 | InfoChem | Vrundan Shah, Vinay Kakkad, Falak Shah, Tushar Gadhiya | [loom.com](https://www.loom.com/share/6910578a2f5740daaf13807c78bbbe9a?sid=1dddd5e9-87c7-488d-bd5f-bf08b3840acd) | 
+| Materials Agent | Archit Datar (Celanese) and Kedar Dabhadkar (Lam Research) | [github.com](https://github.com/dkedar7/materials-agent), [youtube.com](https://www.youtube.com/watch?v=_5yCOg5Bi_Q), [linkedin.com](https://www.linkedin.com/posts/archit-datar_llm-hackathon-cheminformatics-activity-7194456043781767169-JTi7) |
 
 ## 2023 
 [Publication](https://arxiv.org/pdf/2306.06283)
