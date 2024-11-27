@@ -39,6 +39,34 @@
 | Team Datalab | Evans, Matthew (UCLouvain), Bocarsly, Joshua (UHouston), Charmes, Benjamin (University of Cambridge), Patel, Vraj (UHouston) | [twitter.com](https://twitter.com/funroll_loops/status/1788701005518909453), [github.com](https://github.com/bocarsly-group/llm-hackathon-2024) |
 | InfoChem | Vrundan Shah, Vinay Kakkad, Falak Shah, Tushar Gadhiya | [loom.com](https://www.loom.com/share/6910578a2f5740daaf13807c78bbbe9a?sid=1dddd5e9-87c7-488d-bd5f-bf08b3840acd) | 
 
+
+### 2024 Prize Winners
+
+#### Radical AI Prizes
+- 1st Langsim 
+- 2nd GlossaGen
+- 3rd Porevoyant
+- 4th Team Datalab
+
+#### Neo4j prizes (no order)
+- ActiveScience
+- GlossaGen
+- Lithium Heart
+
+#### Anthropic prizes (no order)
+- LangSim
+- The Learning LOBSTERs
+- LLMs for Hypothesis Assessment
+- MaSTeA
+- MolFoundation
+- NOMAD Query Reporter
+- PoreVoyant
+- Speech Schema Filling
+- Thoughtful Beavers
+- Vizchem
+
+
+
 ## 2023 
 [Publication](https://arxiv.org/pdf/2306.06283)
 
