@@ -65,6 +65,10 @@
 - Thoughtful Beavers
 - Vizchem
 
+#### Reincarnate prizes (no order)
+- Ontosynthesis
+
+
 
 
 ## 2023 
