@@ -54,6 +54,7 @@
 - Lithium Heart
 
 #### Anthropic prizes (no order)
+- G-Peer-T
 - LangSim
 - The Learning LOBSTERs
 - LLMs for Hypothesis Assessment
